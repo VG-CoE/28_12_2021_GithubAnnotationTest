@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>crd55_28122021canvasapptest_f8112</Name>
+  <AppVersion>2021-12-28T10:37:57Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.21115.37.0</CreatedByClientVersion>
+  <MinClientVersion>3.21115.37.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","sienaVersion":"cb1368d5-4f88-4c2e-a7e1-3817769cd40c","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.21115.37","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>28_12_2021_CanvasAppTest</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"1a773c32-c9d3-43ae-8b52-5fe523597669":{"id":"/providers/microsoft.powerapps/apis/shared_logicflows","displayName":"Logic flows","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1534/1.0.1534.2605/logicflows/icon.png","dataSources":["28_12_2021_TestFlow1"],"dependencies":[],"dependents":[],"parameterHints":{"workflowName":{"value":"2533731e-f7f1-4736-a744-4dde38410f20"},"workflowEntityId":{"value":"be4b52e2-c967-ec11-8f8e-000d3aba4ea2"}},"parameterHintsV2":{"workflowName":{"value":"2533731e-f7f1-4736-a744-4dde38410f20"},"workflowEntityId":{"value":"be4b52e2-c967-ec11-8f8e-000d3aba4ea2"}},"isOnPremiseConnection":false,"dataSets":{},"apiTier":"Standard","actions":["Run"]}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <AppComponents>[]</AppComponents>
+  <AppComponentDependencies>[]</AppComponentDependencies>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <AdminControlBypassConsent>0</AdminControlBypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/crd55_28122021canvasapptest_f8112_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/crd55_28122021canvasapptest_f8112_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
